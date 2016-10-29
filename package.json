@@ -1,0 +1,18 @@
+{
+  "name": "siftninja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/freekrai/siftninjajs.git"
+    },
+    "author": "Roger Stringer",
+    "bugs": {
+      "url": "https://github.com/freekrai/siftninjajs/issues"
+    },
+  "dependencies": {
+    "bluebird": "3.4.6",
+    "superagent": "2.3.0"
+  }
+}
