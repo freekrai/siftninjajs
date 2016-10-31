@@ -1,3 +1,5 @@
+[![NPM](https://nodei.co/npm/siftninja.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/siftninja/)
+
 # siftninja.js
 
 [Sift Ninja](https://www.siftninja.com/) is a powerful yet simple software service that automatically moderates and filters content.
